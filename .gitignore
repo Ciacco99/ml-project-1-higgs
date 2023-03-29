@@ -1,0 +1,23 @@
+data/
+
+
+__pycache__/
+
+*.csv
+*.zip
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# dotenv
+.env
+
+# Mac folder attributes
+.DS_Store
+
